@@ -1,0 +1,4 @@
+insert into clients
+(first_name, last_name, telephone_number, date_of_purchase)
+values 
+(' ', '   ',     , '0000-00-00');
