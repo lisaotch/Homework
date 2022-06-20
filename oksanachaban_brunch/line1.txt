@@ -1,0 +1,4 @@
+create table clients(
+clients_id int auto_increment NOT NULL,
+
+primary key (clients_id));
