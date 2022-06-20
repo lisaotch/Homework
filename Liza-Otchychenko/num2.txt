@@ -1,0 +1,9 @@
+create table employee(
+emloyee_id int not null auto_increment primary key,
+name_and_surname varchar(50) not null,
+post varchar(20) not null);
+
+create table salary(
+salary_id int not null auto_increment primary key,
+job_price int(2) not null);
+
